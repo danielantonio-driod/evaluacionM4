@@ -1,8 +1,12 @@
 # 📋 TaskFlow - Aplicación de Gestión de Tareas
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-evaluacionM4-blue?logo=github)](https://github.com/danielantonio-driod/evaluacionM4)
+
 ## 🎯 Descripción del Proyecto
 
 **TaskFlow** es una aplicación web interactiva para gestionar tareas de manera eficiente, desarrollada con JavaScript moderno (ES6+). Implementa principios de Programación Orientada a Objetos, manipulación del DOM, eventos, asincronía y consumo de APIs.
+
+🔗 **Repositorio:** [https://github.com/danielantonio-driod/evaluacionM4](https://github.com/danielantonio-driod/evaluacionM4)
 
 ## ✨ Características Implementadas
 
@@ -94,8 +98,23 @@ evaluacionM4/
 
 ### Instalación
 
-1. Clona o descarga el proyecto
-2. Abre `index.html` en tu navegador web
+**Opción 1: Clonar desde GitHub**
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/danielantonio-driod/evaluacionM4.git
+
+# Navegar al directorio
+cd evaluacionM4
+
+# Abrir index.html en tu navegador
+```
+
+**Opción 2: Descargar directamente**
+
+1. Descarga el proyecto desde [GitHub](https://github.com/danielantonio-driod/evaluacionM4)
+2. Extrae el archivo ZIP
+3. Abre `index.html` en tu navegador web
 
 ### Uso Básico
 
